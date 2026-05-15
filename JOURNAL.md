@@ -10,7 +10,7 @@ https://www.waveshare.com/product/raspberry-pi/displays/oled/10.5inch-hdmi-amole
 
 **Work Done**
 ---
-After R&D stuff I worked on modeling the base for the keyboard holder, I wanted every dimension of the keyboard to be able to be input in a sheet then have the model adjust automatically to the sizes given. To do this I made use of the parameters feature built into fusion.
+After R&D stuff I worked on modeling the base for the keyboard holder, I wanted every dimension of the keyboard to be able to be input in a sheet then have the model adjust automatically to the sizes given. To do this I made use of the parameters feature built into fusion. I had to redesign the base a few times to include a hole for the keyboard cable and add holes for the M5 pins which I'm using to mount the screen to the base. I also added a customizable lip to the top plate to keep the keyboard in the base, it uses the M5 pins and a few built in pins to keep it in position.
 <img width="2161" height="1386" alt="image" src="https://github.com/user-attachments/assets/04ee849b-be83-4f00-83c5-2f1e7d4abb54" />
 
 # Day Two 14/05/2026 (Hours 1)
