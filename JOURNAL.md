@@ -21,3 +21,8 @@ Been lacking a whole ton of motivation so progress has been slow.
 I got the arms that hold the screen to the base keyboard mount finished, at least usable. They work well and follow the parametric design changes but I don't really like how they look. At some point I may go in and rededign the arm holders so they match the look of the rest of the build better. Another thing I need to think about is how to have the Lid close fluse while keeping things parametric with the keyboard. Currently I'm worried that if you increase the front keyboard height to much there may be a gap between the lid and keyboard.
 <img width="1134" height="678" alt="image" src="https://github.com/user-attachments/assets/3323a25f-388d-470c-bfe6-a9da31dec009" />
 
+# Day Three 15/05/2026 (Hours 3.5)
+**Work Done**
+---
+Today I spent 2.5 hours making a single sketch. The reason for this is both annoying and practical, starting with making sure the screen stays at the correct height even while being parametric. I made it so that that screen's parametric values were used for the height of the screen relative to the base. I also had to make sure that the Pi mount wasn't affected by the changes in screen size. To ensure that I made the Pi mount stay true to the bottom right side of the screen, this does make it so that there are minimum screen sizes as a byproduct. Finally I decided to add VESA mounting holes to the back so that more screens are supported and you don't just need to rely on the lid to hold the screen in place.
+<img width="1038" height="977" alt="image" src="https://github.com/user-attachments/assets/2bc7403c-fe95-42ea-8307-fa928931e70c" />
